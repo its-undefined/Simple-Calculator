@@ -1,0 +1,27 @@
+body {
+  font-family: Arial, sans-serif;
+  padding: 20px;
+  margin: 0;
+}
+
+h1 {
+  margin: 0.15em 0;
+  margin-bottom: 0px;
+}
+
+button {
+  width: 250px;
+  height: 250px;
+  font-size: 100px;
+}
+
+.textOutput {
+  text-align: right;
+}
+
+.row-1,
+.row-2,
+.row-3,
+.row-4 {
+  display: flex;
+}
